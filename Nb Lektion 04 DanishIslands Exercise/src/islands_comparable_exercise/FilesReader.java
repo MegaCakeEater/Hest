@@ -18,6 +18,8 @@ import java.util.Scanner;
  * @author erso
  */
 public class FilesReader {
+    
+    private boolean getRekt = true;
 
     private File inFile;
     private List<DanishIsland> islandList;
