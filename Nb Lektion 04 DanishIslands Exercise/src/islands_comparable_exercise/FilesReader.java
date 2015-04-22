@@ -86,7 +86,7 @@ public class FilesReader {
         fr.readFile();
         
         
-        System.out.println("Result:\n" + fr.getList()+" dick face");
+        System.out.println("Result:\n" + fr.getList());
         fr.sortList();
         System.out.println("\nSorted1:\n" + fr.getList());
 
